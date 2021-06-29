@@ -1,0 +1,10 @@
+D:\A My Youtube Channel\Testing Automation\Part 1\TestingSelenium\TestingSelenium\bin\Debug\netcoreapp2.1\TestingSelenium.deps.json
+D:\A My Youtube Channel\Testing Automation\Part 1\TestingSelenium\TestingSelenium\bin\Debug\netcoreapp2.1\TestingSelenium.runtimeconfig.json
+D:\A My Youtube Channel\Testing Automation\Part 1\TestingSelenium\TestingSelenium\bin\Debug\netcoreapp2.1\TestingSelenium.runtimeconfig.dev.json
+D:\A My Youtube Channel\Testing Automation\Part 1\TestingSelenium\TestingSelenium\bin\Debug\netcoreapp2.1\TestingSelenium.dll
+D:\A My Youtube Channel\Testing Automation\Part 1\TestingSelenium\TestingSelenium\bin\Debug\netcoreapp2.1\TestingSelenium.pdb
+D:\A My Youtube Channel\Testing Automation\Part 1\TestingSelenium\TestingSelenium\obj\Debug\netcoreapp2.1\TestingSelenium.csproj.CoreCompileInputs.cache
+D:\A My Youtube Channel\Testing Automation\Part 1\TestingSelenium\TestingSelenium\obj\Debug\netcoreapp2.1\TestingSelenium.AssemblyInfoInputs.cache
+D:\A My Youtube Channel\Testing Automation\Part 1\TestingSelenium\TestingSelenium\obj\Debug\netcoreapp2.1\TestingSelenium.AssemblyInfo.cs
+D:\A My Youtube Channel\Testing Automation\Part 1\TestingSelenium\TestingSelenium\obj\Debug\netcoreapp2.1\TestingSelenium.dll
+D:\A My Youtube Channel\Testing Automation\Part 1\TestingSelenium\TestingSelenium\obj\Debug\netcoreapp2.1\TestingSelenium.pdb

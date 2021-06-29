@@ -1,0 +1,15 @@
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\bin\Debug\netcoreapp3.1\TestingSelenium.exe
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\obj\Debug\netcoreapp3.1\TestingSelenium.AssemblyInfoInputs.cache
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\obj\Debug\netcoreapp3.1\TestingSelenium.AssemblyInfo.cs
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\obj\Debug\netcoreapp3.1\TestingSelenium.csproj.CoreCompileInputs.cache
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\bin\Debug\netcoreapp3.1\TestingSelenium.deps.json
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\bin\Debug\netcoreapp3.1\TestingSelenium.runtimeconfig.json
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\bin\Debug\netcoreapp3.1\TestingSelenium.runtimeconfig.dev.json
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\bin\Debug\netcoreapp3.1\TestingSelenium.dll
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\bin\Debug\netcoreapp3.1\TestingSelenium.pdb
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\obj\Debug\netcoreapp3.1\TestingSelenium.csproj.CopyComplete
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\obj\Debug\netcoreapp3.1\TestingSelenium.dll
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\obj\Debug\netcoreapp3.1\TestingSelenium.pdb
+D:\LECTURER\MH Thamrin\Testing Implementasi Sistem Reguler\Pertemuan 14\TestingSelenium\TestingSelenium\obj\Debug\netcoreapp3.1\TestingSelenium.genruntimeconfig.cache

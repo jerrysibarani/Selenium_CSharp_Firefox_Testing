@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4wZNTm0TXg5LqI2r147Pfs0tWPeD4WJtfr+DdR9+1g83DgqHBZHVpj8z4GMPfkBBwMkbXECITropqjGvMpWPsA==",
+  "success": true,
+  "projectFilePath": "D:\\LECTURER\\MH Thamrin\\Testing Implementasi Sistem Reguler\\Pertemuan 14\\TestingSelenium\\TestingSelenium\\TestingSelenium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\selenium.firefox.webdriver\\0.27.0\\selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\selenium.webdriver\\4.0.0-alpha07\\selenium.webdriver.4.0.0-alpha07.nupkg.sha512"
+  ],
+  "logs": []
+}
